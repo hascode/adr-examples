@@ -8,6 +8,8 @@ Accepted
 
 Supercedes [3. Use Thrift for data serialization between system a and system b](0003-use-thrift-for-data-serialization-between-system-a-and-system-b.md)
 
+Amends [2. Use Hystrix to stabilize integration points](0002-use-hystrix-to-stabilize-integration-points.md)
+
 ## Context
 
 Context here...
