@@ -23,4 +23,4 @@ For the full tutorial please feel free to visit [my blog] and read the [followin
 
    [adr-tools]:https://github.com/npryce/adr-tools
    [my blog]:https://www.hascode.com/
-   [following article]:https://www.hascode.com/2018/05/documenting-and-managing-architecture-decision-records-with-adr-tools
+   [following article]:https://www.hascode.com/2018/05/managing-architecture-decision-records-with-adr-tools/
